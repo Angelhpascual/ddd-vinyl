@@ -1,4 +1,4 @@
-export class VinylCover {
+export class VinylPreviewURL {
   private readonly value: string
 
   constructor(value: string) {
