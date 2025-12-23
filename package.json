@@ -23,6 +23,7 @@
     "tailwindcss": "^4.1.18",
     "three": "^0.182.0",
     "uuid": "^13.0.0",
+    "uuid4": "^2.0.3",
     "zustand": "^5.0.9"
   },
   "devDependencies": {

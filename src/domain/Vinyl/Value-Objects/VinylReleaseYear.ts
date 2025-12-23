@@ -1,4 +1,4 @@
-export class ReleaseYear {
+export class VinylReleaseYear {
   private readonly value: number
 
   constructor(value: number) {

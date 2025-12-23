@@ -1,4 +1,4 @@
-export class ArtistName {
+export class VinylArtistName {
   private readonly value: string
 
   constructor(value: string) {
